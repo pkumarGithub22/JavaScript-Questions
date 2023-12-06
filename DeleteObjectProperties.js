@@ -3,5 +3,5 @@ var a = {
     age:24
 }
 delete a.name;
-delete a.age;
+// delete a.age;
 console.log(a)
