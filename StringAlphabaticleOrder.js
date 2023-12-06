@@ -3,4 +3,4 @@ function StringAlphabaticleOrder(str){
 
 }
 console.log(StringAlphabaticleOrder("Puneet"));
-console.log(StringAlphabaticleOrder("Rahul"));
+console.log(StringAlphabaticleOrder("Kumar"));
