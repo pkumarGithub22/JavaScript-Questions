@@ -5,14 +5,14 @@
 //   3) var Function Scoped hota hai
 //   4) var adds itself to the window object
 
-// function abcd(){
-//     for(var i= 1; i<12; i++){
-//         console.log(i);
-//     }
-//     console.log(i);
+function abcd(){
+    for(var i= 1; i<12; i++){
+        console.log(i);
+    }
+    console.log(i);
 
-// }
-// abcd();
+}
+abcd();
 
 
 
