@@ -6,3 +6,4 @@
 // The properties of all HTML elements
 // The methods to access all HTML elements
 // The events for all HTML elements
+
