@@ -10,11 +10,12 @@
 
 // function = Code ko kuch name de dena 
 
-function helobolo(){
-    console.log("hello")
-}
-helobolo();
-
-// functions Abcd(){
-//     console.log
+// function helobolo(){
+//     console.log("hello")
 // }
+// helobolo();
+
+function Abcd(a){
+    console.log(a)
+}
+Abcd(12);
