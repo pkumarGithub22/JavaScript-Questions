@@ -9,3 +9,12 @@
 // functions ka matlb kuch code ko likhkar usko kuch name de sakte hai baad me use use kar sakte hai 
 
 // function = Code ko kuch name de dena 
+
+function helobolo(){
+    console.log("hello")
+}
+helobolo();
+
+// functions Abcd(){
+//     console.log
+// }
